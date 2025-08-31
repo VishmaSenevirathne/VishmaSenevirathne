@@ -1,29 +1,18 @@
 ## Hi there 👋
 
 <!--
-**SupunPrabodha/SupunPrabodha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**VishmaSenevirathne/VishmaSenevirathne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=790b7611wf79qly8p72n85htatikdog8aax4z6ufixpwyfbp&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding GIF" width="300">
+  <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" alt="Coding GIF" width="300">
 </p>
 
 # Hi, I’m Supun Prabodha! 👋  
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
+    alt="Snake animation" />
 </p>
 
 Welcome to my GitHub profile! I’m a passionate tech enthusiast who loves exploring new technologies, solving problems, and building impactful solutions. 🚀  
@@ -118,31 +107,27 @@ I enjoy blending creativity with technology, whether through coding, designing i
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SupunPrabodha&show_icons=true&theme=radical" alt="GitHub Stats" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SupunPrabodha&layout=compact&theme=radical" alt="Top Languages" width="400">
-<br><img src="https://github-readme-streak-stats.herokuapp.com/?user=SupunPrabodha&theme=dark&hide_border=false" alt="Streaks" width="400">
-  
-</p>
-
-
-
-## 🏆 GitHub Trophies
-
-<p align="center"> 
-<img src="https://github-profile-trophy.vercel.app/?username=SupunPrabodha&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub tropies">
-</p>
-  
-### 🔝 Top Contributed Repo
-
-<p align="center"> 
-<img src="https://github-contributor-stats.vercel.app/api?username=SupunPrabodha&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+  <img src="https://github-readme-stats.vercel.app/api?username=VishmaSenevirathne&show_icons=true&theme=radical" alt="GitHub Stats" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishmaSenevirathne&layout=compact&theme=radical" alt="Top Languages" width="400">
+<br><img src="https://github-readme-streak-stats.herokuapp.com/?user=VishmaSenevirathne&theme=dark&hide_border=false" alt="Streaks" width="400">
 </p>
 
 ---
 
-<!-- <p align="center"> <img src="https://visitcount.itsvg.in/api?id=SupunPrabodha&icon=0&color=0" alt="Views"> </p> -->
+## 🏆 GitHub Trophies
+<p align="center"> 
+<img src="https://github-profile-trophy.vercel.app/?username=VishmaSenevirathne&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub trophies">
+</p>
+
+---
+
+### 🔝 Top Contributed Repo
+<p align="center"> 
+<img src="https://github-contributor-stats.vercel.app/api?username=VishmaSenevirathne&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+</p>
+
+---
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=SupunPrabodha&color=blueviolet" alt="Views" /> 
+  <img src="https://komarev.com/ghpvc/?username=VishmaSenevirathne&color=blueviolet" alt="Views" /> 
 </p>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
